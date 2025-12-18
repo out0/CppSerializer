@@ -1,13 +1,25 @@
-all:
+bin:
 	rm -rf build
 	mkdir -p build
 	cd build && cmake ..
 	cd build && make -j$(nproc)
-	mv build/cpps .
+
+all: bin 	
+	mv build/unittest .
+	mv build/tst_client .
+	mv build/tst_server .
+	mv build/tst_bridge .
 	rm -rf build
 
+test: all
+	./unittest
+	rm unittest
+
+install: bin
+	cd build && sudo make install
+
 clean:
-	rm -rf build cpps
+	rm -rf build unittest
 
 
 

@@ -1,0 +1,7 @@
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/build/CMakeFiles/serializerpp.dir
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/build/CMakeFiles/edit_cache.dir
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/build/CMakeFiles/rebuild_cache.dir
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/build/CMakeFiles/list_install_components.dir
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/build/CMakeFiles/install.dir
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/build/CMakeFiles/install/local.dir
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,3 @@
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/tests/build/CMakeFiles/unittest.dir
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/tests/build/CMakeFiles/edit_cache.dir
+/home/cristiano/Documents/Projects/Mini Projetos/CppSerializer/tests/build/CMakeFiles/rebuild_cache.dir
