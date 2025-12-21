@@ -1,7 +1,0 @@
-/usr/local/lib/libserializerpp.so.1.0.0
-/usr/local/lib/libserializerpp.so.1
-/usr/local/lib/libserializerpp.so
-/usr/local/lib/cmake/serializerpp/serializerppTargets.cmake
-/usr/local/lib/cmake/serializerpp/serializerppTargets-noconfig.cmake
-/usr/local/lib/cmake/serializerpp/serializerppConfig.cmake
-/usr/local/lib/cmake/serializerpp/serializerppConfigVersion.cmake
